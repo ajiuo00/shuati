@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
 # ================= 配置页面 =================
-st.set_page_config(page_title="绿色护眼刷题本", page_icon="🍀", layout="wide")
+st.set_page_config(page_title="随便刷刷题", page_icon="🍀", layout="wide")
 
 # ================= 0. 自定义样式 (CSS) =================
 st.markdown("""
